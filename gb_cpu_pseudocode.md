@@ -311,7 +311,7 @@ if (C || (!S && A > 0x99))
     res |= 0x60
     should_set_c = 1
 
-A = A + (S ? -res : res) & 0xff
+A = (A + (S ? -res : res)) & 0xff
 
 Z = A == 0
 HC = 0
