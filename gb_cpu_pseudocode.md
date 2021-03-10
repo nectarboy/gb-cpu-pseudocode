@@ -3,7 +3,7 @@
 ## Introduction
 aight so while i was making my gameboy emu, i kinda had to scramble a lil to find sources which had all the gameboy instructions and actually explain what they did.
 
-it was a lil messy at first, and some parts were just missing, so i was like fucc it why not just write a summary of all the instructions ? 
+it was a lil messy at first, and i had to spend some time putting the pieces together, so i was like fucc it why not just write a summary of all the instructions ? 
 
 this instruction summary is all done in pseudocode, so it'll follow some kinda c-ish python-ish syntax.
 
